@@ -19,7 +19,7 @@ The dashboard helps identify key problem areas and supports data-driven decision
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/project-dashboard.png)
 
 ---
 
