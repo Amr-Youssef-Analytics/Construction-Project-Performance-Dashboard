@@ -63,7 +63,7 @@ The dashboard helps identify key problem areas and supports data-driven decision
 
 This dashboard enables project managers to:
 
-* Identify critical problem areas بسرعة
+* Identify critical problem areas
 * Focus on high-impact tasks
 * Improve cost control and scheduling accuracy
 * Support better strategic decision-making
